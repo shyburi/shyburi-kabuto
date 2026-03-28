@@ -1,0 +1,20 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "ntv-hackason",
+  "main": "src/index.ts",
+  "compatibility_date": "2025-03-01",
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "blog",
+      "database_id": "81b6d72f-ad43-4831-acb6-9bc3ddfc899d"
+    }
+  ],
+  "ai": {
+    "binding": "AI"
+  },
+  "vars": {
+    "NTV_API_BASE_URL": "",
+    "NTV_API_KEY": ""
+  }
+}
