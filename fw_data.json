@@ -1,0 +1,101 @@
+[
+  {
+    "results": [
+      {
+        "id": "4d2f3167-4986-4424-a78b-04fea8931464",
+        "program": "ストレイトニュース",
+        "headline": "タイ・パタヤに拠点・特殊詐欺グループか・日本人５人を送還",
+        "date": "2025-02-05",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "85d04d32-1659-44a1-a468-d103ca1d0bcf",
+        "program": "ストレイトニュース",
+        "headline": "特殊詐欺グループメンバーか・男逮捕へ",
+        "date": "2025-03-28",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "91321532-a414-46d3-b563-9cf20457b7c3",
+        "program": "ストレイトニュース",
+        "headline": "東京文京区・タイ人少女働かせる・タイ警察幹部ら日本側と協議へ",
+        "date": "2025-11-11",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "59299d7a-a02b-4e1b-b3b7-2e390a59e07f",
+        "program": "バンキシャ",
+        "headline": "中居正広・女性トラブル報道・フジテレビが改めて会見へ",
+        "date": "2025-01-26",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "5d0ab57a-9ed5-479f-a9f3-251eecb60778",
+        "program": "バンキシャ",
+        "headline": "中居正広氏・女性トラブル報道・フジテレビ１０時間超やり直し会見",
+        "date": "2025-02-02",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "0c46e3a0-fbde-4d53-897d-a9445c1ad0a3",
+        "program": "ミヤネ屋",
+        "headline": "外免切替・日本免許への切り替えが人気・トラブルも懸念",
+        "date": "2025-01-16",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "8d68d456-3ee4-4d07-9928-fa696eb33c2d",
+        "program": "ミヤネ屋",
+        "headline": "ミャンマー・中国の犯罪組織が日本人２０人以上監禁か",
+        "date": "2025-01-20",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "7c98c18f-13d7-41b9-804c-12d13fe39641",
+        "program": "ミヤネ屋",
+        "headline": "フジ・メディアＨＤ・２３日に臨時取締役会開催",
+        "date": "2025-01-22",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "4ae78f73-3911-465e-baff-b11abea31d57",
+        "program": "ミヤネ屋",
+        "headline": "フジテレビ・第三者委員会・調査報告書公表",
+        "date": "2025-03-31",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "ce3c33c1-a296-4c3c-a0c2-35acb7129eee",
+        "program": "ミヤネ屋",
+        "headline": "フジテレビ・第三者委員会・調査報告書を公表",
+        "date": "2025-04-01",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "46f018fd-9a6f-4645-9c2e-8baad71ebd27",
+        "program": "ミヤネ屋",
+        "headline": "外国人観光客・違法＆迷惑行為の実態",
+        "date": "2025-10-06",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "26e9b6dc-0e11-4f5d-9c59-7e2e936653bb",
+        "program": "ミヤネ屋",
+        "headline": "＜ニュース＞オーバーステイのベトナム人２人を解体工事現場で働くよう”あっせん”か・ベトナム人の男逮捕",
+        "date": "2025-11-26",
+        "topic": "foreign_worker"
+      },
+      {
+        "id": "10f99cbf-5977-48e6-ba93-40d867185967",
+        "program": "ミヤネ屋",
+        "headline": "高市早苗首相・”肝いり”外国人政策どうなる",
+        "date": "2025-12-10",
+        "topic": "foreign_worker"
+      }
+    ],
+    "success": true,
+    "meta": {
+      "duration": 1
+    }
+  }
+]
