@@ -453,8 +453,8 @@ body {
 #category-pie { flex: 1; width: 100%; }
 
 /* ── Plot & Legend ────────────────────────────────────── */
-#plot-wrap { flex: 1; position: relative; min-height: 0; perspective: 1000px; }
-#plot { width: 100%; height: 100%; }
+#plot-wrap { flex: 1; position: relative; min-height: 0; perspective: 1000px; touch-action: none; }
+#plot { width: 100%; height: 100%; touch-action: none; }
 
 #axis-legend {
   position: absolute; top: 16px; left: 24px; background: rgba(255, 255, 255, 0.9);
@@ -1454,6 +1454,11 @@ window.addEventListener('resize', () => {
   clearTimeout(window.resizeTimer);
   window.resizeTimer = setTimeout(() => { render(false); }, 200);
 });
+
+// スマホでのタッチ操作（ズーム・カメラ移動）をブラウザスクロールに奪われないよう防止
+const plotWrap = document.getElementById('plot-wrap');
+plotWrap.addEventListener('touchstart', (e) => { if (e.touches.length > 0) e.preventDefault(); }, { passive: false });
+plotWrap.addEventListener('touchmove', (e) => { e.preventDefault(); }, { passive: false });
 
 window.addEventListener('load', () => {
   setTimeout(() => {
